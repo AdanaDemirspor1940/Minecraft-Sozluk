@@ -15,6 +15,20 @@ meme_dict = {
             "BALIK": "Çiğ balık düşürür.",
             "KURT": "Koyunlara saldırır. Evcilleştirmezsen vurunca sana da saldırır. Kemikle evcilleştirilir. Evcilleştirilirse vurduğun canlıya saldırır.",
             "KÖPEK": "Asıl adı kurttur. Koyunlara saldırır. Evcilleştirmezsen vurunca sana da saldırır. Kemikle evcilleştirilir. Evcilleştirilirse vurduğun canlıya saldırır.",
+            "NETHER": "Minecraft'daki cehennem boyutudur. 'NEDIR' diye okunur.",
+            "NEDIR": "Minecraft'daki cehennem boyutudur. 'NETHER' diye yazılır.",
+            "PİGLİN": "Size hasar vermeye çalışan canavar. Üzerinde zırh ve kılıç gibi ekipmanlar olabilir. Güneşe çıktıklarında yanarlar.",
+            "BLAZE": "Size hasar vermeye çalışan canavar. Uçabilirler. Ateş topu atarlar. Bılayz diye okunur. Blaze çubuğu düşürürler.",
+            "BILAZE": "Size hasar vermeye çalışan canavar. Uçabilirler. Ateş topu atarlar. Blaze diye yazılır. Bılayz diye okunur. Blaze çubuğu düşürürler.",
+            "BILAYZ": "Size hasar vermeye çalışan canavar. Uçabilirler. Ateş topu atarlar. Blaze diye yazılır. Blaze çubuğu düşürürler.",
+            "GHOST": "Size hasar vermeye çalışan canavar. Uçabilirler. Ateş topu atabilirler. Gast diye okunur.",
+            "NETHER PORTALI": "Nether'a gitmeni sağlayan portal. x9 Obsidiyen ve bir çakmaktaşı ve çelik gerekir.",
+            "END": "Oyunun sonunun olduğu yer.",
+            "END PORTALI": "End'e gitmeni sağlayan portal. Açmak için max. x10 ender gözü.",
+            "ENDER İNCİSİ": "Fırlattığın yere ışınlanmanı sağlayan cisim.",
+            "ENDER GÖZÜ": "Stronghold bulmana yardımcı olan ve end portalını açmana yarayan cisim.",
+            "ENDERMAN": "Gözüne bakınca sana hasar vermeye çalışan canavar. Öldürmek için 2 blokluk bir alana girmelisiniz. Ender incisi düşürür.",
+            "ENDER DRAGON": "Oyunu bitirmek için öldürmen gereken canavar.", 
             }
 
 word = input("Anlamadığınız bir kelime yazın (hepsini büyük harflerle yazın!): ")
